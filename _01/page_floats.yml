@@ -1,0 +1,18 @@
+---
+1:
+- :kind: image
+  :filename: 1.jpg
+  :size: 6x5
+  :position: 7
+  :caption: 여기는 사진 설명 입니다.
+3:
+- :kind: image
+  :filename: 2.jpg
+  :size: 3x3
+  :position: 1
+  :caption: 여기는 사진 설명 입니다.
+4:
+- :kind: image
+  :filename: 3.jpg
+  :size: 6x6
+  :position: 1
